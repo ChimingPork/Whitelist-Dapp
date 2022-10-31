@@ -6,4 +6,5 @@ Presented by [LearnWeb3DAO](https://learnweb3.io/)
 - There should be a website where people can go and enter into the whitelist.
 
 ## My additional features
-- 
+- Add table to display whitelist addresses on home page
+- Add sneak peak gallery on home page of NFTs
