@@ -7,4 +7,4 @@ Presented by [LearnWeb3DAO](https://learnweb3.io/)
 
 ## My additional features (In development) ##
 - Add table to display whitelist addresses on home page
-- Add sneak peak gallery on home page of NFTs#� �f�a�u�c�e�t�-�d�i�s�c�o�r�d�-�b�o�t�
+- Add sneak peak gallery on home page of NFTs
