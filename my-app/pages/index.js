@@ -141,7 +141,6 @@ useEffect(() => {
       providerOptions: {},
       disableInjectedProvider: false,
     });
-    connectWallet();
   }
 }, [walletConnected]);
 
